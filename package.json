@@ -1,0 +1,27 @@
+{
+  "name": "bhumibank_backend",
+  "version": "1.0.0",
+  "description": "BhumiBank stands as a beacon of trust and reliability in the digital financial world, ensuring that your money is always in safe hands. Whether you're making a payment, transferring funds, or managing your savings, BhumiBank is here to provide a seamless and secure experience.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkofyashh/BhumiBank.git"
+  },
+  "author": "Yash Rawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkofyashh/BhumiBank/issues"
+  },
+  "homepage": "https://github.com/thinkofyashh/BhumiBank#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.4",
+    "zod": "^3.23.8"
+  }
+}
